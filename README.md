@@ -1,8 +1,4 @@
-# Welcome to jack's Expo React Native free boilerplate 👋
-
-This is an [Expo](https://expo.dev) template project with Superwall libraries ready to use and a simple onboarding sequence for first time users.
-
-This free boilerplate is sponsored by [post bridge](https://post-bridge.com) - a super simple and affordable social media scheduling tool for small teams and founders.
+# rn + expo boilerplate
 
 ## Get started
 
